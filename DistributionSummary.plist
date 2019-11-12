@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MiHome.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>2439A2CD9271788106CE187F5398FDBE6170CEB7</string>
+				<key>dateExpires</key>
+				<string>2021/10/10</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>2439A2CD9271788106CE187F5398FDBE6170CEB7</string>
+						<key>dateExpires</key>
+						<string>2021/10/10</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>HiARSDKComponent.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>LKN22Q5CWT</string>
+						<key>name</key>
+						<string>Hannto Technology Co., Ltd. (Enterprise)</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>LKN22Q5CWT.com.hannto.mihome</string>
+				<key>com.apple.developer.associated-domains</key>
+				<array>
+					<string>applinks:jia.mi.com</string>
+				</array>
+				<key>com.apple.developer.networking.wifi-info</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>LKN22Q5CWT</string>
+				<key>com.apple.external-accessory.wireless-configuration</key>
+				<true/>
+				<key>com.apple.security.application-groups</key>
+				<array>
+					<string>group.com.hannto.mi</string>
+				</array>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>MiHome.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>1f5f12c9-382d-419c-8f00-4ec0ade97c75</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.hannto.mihome</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>LKN22Q5CWT</string>
+				<key>name</key>
+				<string>Hannto Technology Co., Ltd. (Enterprise)</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
