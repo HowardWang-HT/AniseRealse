@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HowardWang-HT/Anise_De_Realse/MiHome.ipa</string>
+					<string>https://howardwang-ht.github.io/AniseRealse/MiHome.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/HowardWang-HT/Anise_De_Realse/display.png</string>
+					<string>https://howardwang-ht.github.io/AniseRealse/display.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/HowardWang-HT/Anise_De_Realse/full.png</string>
+					<string>https://howardwang-ht.github.io/AniseRealse/full.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
